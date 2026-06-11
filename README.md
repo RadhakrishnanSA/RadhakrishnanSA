@@ -28,28 +28,28 @@
 <!-- FASTFETCH BLOCK -->
 
 ```
-                  -`           radha@vader
-                 .o+`          ───────────────────────────────────────────
-                `ooo/          OS        │  Arch Linux x86_64
-               `+oooo:         Host      │  Lenovo LOQ 15
-              `+oooooo:        CPU       │  AMD Ryzen 7 7345HS
-              -+oooooo+:       GPU       │  NVIDIA GeForce RTX 4060 8GB
-            `/:-:++oooo+:      RAM       │  24 GB
-           `/++++/+++++++:     Storage   │  512 GB SSD
-          `/++++++++++++++:    ───────────────────────────────────────────
-         `/+++ooooooooooooo/`  Distros   │  Arch · CachyOS · Garuda
-        ./ooosssso++osssssso+`           │  BlackArch · HydeOS · Fedora
-       .oossssso-    /ossssss+` Current  │  Windows (temp) — Arch soon
-      -osssssso.      :ssssssso.Editor   │  Neovim · VS Code
-     :osssssss/        osssso+++.Shell   │  zsh · Oh My Zsh
-    /ossssssss/        +ssssooo/-───────────────────────────────────────────
-  `/ossssso+/:-        -:/+osssso+Role   │  CS Student · Pentester in Training
- `+sso+:-`                `.-/+oso:Focus │  Penetration Testing · Web App Sec
-`++:.                          `-/+/Cert │  eJPT (In Progress — INE Platform)
-.`                                `/CTF  │  0xSh4d0w · 39th/500+ @ DCG CTF
-                                         ───────────────────────────────────────────
-                                         ██ ██ ██ ██ ██ ██ ██ ██  0-7
-                                         ██ ██ ██ ██ ██ ██ ██ ██  8-15
+                  -`                     radha@vader
+                 .o+`                    ────────────────────────────────────────
+                `ooo/                    OS       │  Arch Linux x86_64
+               `+oooo:                  Host     │  Lenovo LOQ 15
+              `+oooooo:                 CPU      │  AMD Ryzen 7 7345HS
+              -+oooooo+:                GPU      │  NVIDIA GeForce RTX 4060 8GB
+            `/:-:++oooo+:               RAM      │  24 GB
+           `/++++/+++++++:              Storage  │  512 GB SSD
+          `/++++++++++++++:             ────────────────────────────────────────
+         `/+++ooooooooooooo/`           Distros  │  Arch · CachyOS · Garuda
+        ./ooosssso++osssssso+`                   │  BlackArch · HydeOS · Fedora
+       .oossssso-    /ossssss+`         Current  │  Windows (temp) — Arch soon
+      -osssssso.      :ssssssso.        Editor   │  Neovim · VS Code
+     :osssssss/        osssso+++.       Shell    │  zsh · Oh My Zsh
+    /ossssssss/        +ssssooo/-       ────────────────────────────────────────
+  `/ossssso+/:-        -:/+osssso+-     Role     │  CS Student · Pentester in Training
+ `+sso+:-`                `.-/+oso:    Focus    │  Penetration Testing · Web App Sec
+`++:.                          `-/+/   Cert     │  eJPT (In Progress — INE Platform)
+.`                                `/   CTF      │  0xSh4d0w · 39th/500+ @ DCG CTF
+                                        ────────────────────────────────────────
+                                        ██ ██ ██ ██ ██ ██ ██ ██  0-7
+                                        ██ ██ ██ ██ ██ ██ ██ ██  8-15
 ```
 
 ---
@@ -80,7 +80,7 @@ CURRENT_LEARNING=(
   "[*] eJPT Certification     — INE Platform  |  Active labs"
   "[*] Web App Exploitation   — OWASP Top 10 techniques"
   "[*] Network Pentesting     — enumeration, pivoting, post-exploitation"
-  "[*] CTF Competitions       — web, forensics, crypto"
+  "[*] CTF Competitions       — web, forensics, OSINT"
   "[*] AI Security            — LLM vulnerabilities, prompt injection"
 )
 
@@ -95,41 +95,33 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 
 <br>
 
-**`# ── OPERATING SYSTEMS ───────────────────────────────────────────────────`**
-
 <div align="center">
+
+`# ── OPERATING SYSTEMS ───────────────────────────────────────────────────`
+
 <img src="https://skillicons.dev/icons?i=arch,linux,kali,bash&theme=dark" alt="OS" />
-</div>
 
-<br>
+<br><br>
 
-**`# ── PROGRAMMING LANGUAGES ──────────────────────────────────────────────`**
+`# ── PROGRAMMING LANGUAGES ──────────────────────────────────────────────`
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Languages" />
-</div>
 
-<br>
+<br><br>
 
-**`# ── WEB DEVELOPMENT ────────────────────────────────────────────────────`**
+`# ── WEB DEVELOPMENT ────────────────────────────────────────────────────`
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql&theme=dark" alt="Web" />
-</div>
 
-<br>
+<br><br>
 
-**`# ── TOOLS ──────────────────────────────────────────────────────────────`**
+`# ── TOOLS ──────────────────────────────────────────────────────────────`
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode&theme=dark" alt="Tools" />
-</div>
 
-<br>
+<br><br>
 
-**`# ── SECURITY ARSENAL (hands-on) ────────────────────────────────────────`**
-
-<div align="center">
+`# ── SECURITY ARSENAL (hands-on) ────────────────────────────────────────`
 
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&labelColor=0d1117)
 &nbsp;
@@ -180,6 +172,22 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 
 ---
 
+## `[radha@vader ~]$` cat ~/certifications.txt
+
+```
+[radha@vader ~]$ ls -1 ~/certs/
+
+  [✓]  TryHackMe — Pre Security Learning Path
+  [✓]  NPTEL — Introduction to Industry 4.0 & IIoT          │  Elite + Silver  (81%)
+  [✓]  AICTE — AI & Machine Learning Virtual Internship      │  EduSkills / India Edu Program
+  [✓]  AICTE — Process Mining Virtual Internship             │  Celonis / EduSkills
+  [✓]  Cybersecurity Internship — Prompt Infotech, Coimbatore
+  [✓]  OWASP Top 10 for LLM Applications Training            │  Prompt Injection · LLM Security
+  [⌛]  eJPT — eLearnSecurity Junior Penetration Tester      │  In Progress — INE Platform
+```
+
+---
+
 ## `[radha@vader ~]$` gh stats --user RadhakrishnanSA
 
 <br>
@@ -219,10 +227,13 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 </div>
 
 <details>
-<summary><b>⚙️ Snake Animation — GitHub Actions Setup</b></summary>
+<summary><b>⚙️ Snake not showing? Click here — one-time setup (5 minutes)</b></summary>
 <br>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+**Step 1** — In your `RadhakrishnanSA` profile repo, create this folder path:
+`.github/workflows/snake.yml`
+
+**Step 2** — Paste this content into `snake.yml`:
 
 ```yaml
 name: Generate Snake Animation
@@ -250,6 +261,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+**Step 3** — Go to `Actions` tab in your repo → click `Generate Snake Animation` → click `Run workflow`
+
+**Step 4** — Wait ~1 minute → refresh your profile. Snake appears! ✅
 
 </details>
 

@@ -80,7 +80,7 @@ CURRENT_LEARNING=(
   "[*] eJPT Certification     — INE Platform  |  Active labs"
   "[*] Web App Exploitation   — OWASP Top 10 techniques"
   "[*] Network Pentesting     — enumeration, pivoting, post-exploitation"
-  "[*] CTF Competitions       — web, forensics, OSINT"
+  "[*] CTF Competitions       — web, forensics, crypto"
   "[*] AI Security            — LLM vulnerabilities, prompt injection"
 )
 
@@ -95,33 +95,41 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 
 <br>
 
+**`# ── OPERATING SYSTEMS ───────────────────────────────────────────────────`**
+
 <div align="center">
-
-`# ── OPERATING SYSTEMS ───────────────────────────────────────────────────`
-
 <img src="https://skillicons.dev/icons?i=arch,linux,kali,bash&theme=dark" alt="OS" />
+</div>
 
-<br><br>
+<br>
 
-`# ── PROGRAMMING LANGUAGES ──────────────────────────────────────────────`
+**`# ── PROGRAMMING LANGUAGES ──────────────────────────────────────────────`**
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Languages" />
+</div>
 
-<br><br>
+<br>
 
-`# ── WEB DEVELOPMENT ────────────────────────────────────────────────────`
+**`# ── WEB DEVELOPMENT ────────────────────────────────────────────────────`**
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql&theme=dark" alt="Web" />
+</div>
 
-<br><br>
+<br>
 
-`# ── TOOLS ──────────────────────────────────────────────────────────────`
+**`# ── TOOLS ──────────────────────────────────────────────────────────────`**
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode&theme=dark" alt="Tools" />
+</div>
 
-<br><br>
+<br>
 
-`# ── SECURITY ARSENAL (hands-on) ────────────────────────────────────────`
+**`# ── SECURITY ARSENAL (hands-on) ────────────────────────────────────────`**
+
+<div align="center">
 
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&labelColor=0d1117)
 &nbsp;
@@ -211,13 +219,10 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 </div>
 
 <details>
-<summary><b>⚙️ Snake not showing? Click here — one-time setup (5 minutes)</b></summary>
+<summary><b>⚙️ Snake Animation — GitHub Actions Setup</b></summary>
 <br>
 
-**Step 1** — In your `RadhakrishnanSA` profile repo, create this folder path:
-`.github/workflows/snake.yml`
-
-**Step 2** — Paste this content into `snake.yml`:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -245,10 +250,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-**Step 3** — Go to `Actions` tab in your repo → click `Generate Snake Animation` → click `Run workflow`
-
-**Step 4** — Wait ~1 minute → refresh your profile. Snake appears! ✅
 
 </details>
 

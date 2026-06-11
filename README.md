@@ -27,64 +27,30 @@
 
 <!-- FASTFETCH BLOCK -->
 
-<table>
-<tr>
-<td valign="top">
-<pre>
-
-                  -`
-                 .o+`
-                `ooo/
-               `+oooo:
-              `+oooooo:
-              -+oooooo+:
-            `/:-:++oooo+:
-           `/++++/+++++++:
-          `/++++++++++++++:
-         `/+++ooooooooooooo/`
-        ./ooosssso++osssssso+`
-       .oossssso-    /ossssss+`
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                `.-/+oso:
-`++:.                          `-/+/
-.`                                `/
-
-</pre>
-</td>
-<td valign="top">
-<pre>
-
-  radha @ vader
-  ─────────────────────────────────────────────────
-  Host      │  Lenovo LOQ 15
-  CPU       │  AMD Ryzen 7 7345HS
-  GPU       │  NVIDIA GeForce RTX 4060 8GB
-  RAM       │  24 GB
-  Storage   │  512 GB SSD
-  ─────────────────────────────────────────────────
-  Distros   │  Arch · CachyOS · Garuda · Fedora
-             │  BlackArch · HydeOS + Hyprland dots
-  Current   │  Windows (temp) — Arch coming back
-  Editor    │  Neovim  ·  VS Code
-  ─────────────────────────────────────────────────
-  Role      │  CS Student  ·  Pentester in Training
-  Focus     │  Penetration Testing  ·  Web App Sec
-  Cert      │  eJPT  (In Progress — INE Platform)
-  College   │  B.E. Computer Science  ·  Pre-Final
-  Location  │  Tamil Nadu, India
-  ─────────────────────────────────────────────────
-  CTF       │  0xSh4d0w · 39th / 500+  @ DCG CTF
-
-   ███  ███  ███  ███  ███  ███  ███  ███   0-7
-   ███  ███  ███  ███  ███  ███  ███  ███   8-15
-
-</pre>
-</td>
-</tr>
-</table>
+```
+                  -`           radha@vader
+                 .o+`          ───────────────────────────────────────────
+                `ooo/          OS        │  Arch Linux x86_64
+               `+oooo:         Host      │  Lenovo LOQ 15
+              `+oooooo:        CPU       │  AMD Ryzen 7 7345HS
+              -+oooooo+:       GPU       │  NVIDIA GeForce RTX 4060 8GB
+            `/:-:++oooo+:      RAM       │  24 GB
+           `/++++/+++++++:     Storage   │  512 GB SSD
+          `/++++++++++++++:    ───────────────────────────────────────────
+         `/+++ooooooooooooo/`  Distros   │  Arch · CachyOS · Garuda
+        ./ooosssso++osssssso+`           │  BlackArch · HydeOS · Fedora
+       .oossssso-    /ossssss+` Current  │  Windows (temp) — Arch soon
+      -osssssso.      :ssssssso.Editor   │  Neovim · VS Code
+     :osssssss/        osssso+++.Shell   │  zsh · Oh My Zsh
+    /ossssssss/        +ssssooo/-───────────────────────────────────────────
+  `/ossssso+/:-        -:/+osssso+Role   │  CS Student · Pentester in Training
+ `+sso+:-`                `.-/+oso:Focus │  Penetration Testing · Web App Sec
+`++:.                          `-/+/Cert │  eJPT (In Progress — INE Platform)
+.`                                `/CTF  │  0xSh4d0w · 39th/500+ @ DCG CTF
+                                         ───────────────────────────────────────────
+                                         ██ ██ ██ ██ ██ ██ ██ ██  0-7
+                                         ██ ██ ██ ██ ██ ██ ██ ██  8-15
+```
 
 ---
 

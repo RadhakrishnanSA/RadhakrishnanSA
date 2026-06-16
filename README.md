@@ -183,7 +183,7 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
   [✓]  AICTE — Process Mining Virtual Internship             │  Celonis / EduSkills
   [✓]  Cybersecurity Internship — Prompt Infotech, Coimbatore
   [✓]  OWASP Top 10 for LLM Applications Training            │  Prompt Injection · LLM Security
-  [⌛]  eJPT — eLearnSecurity Junior Penetration Tester      │  In Progress — INE Platform
+  [✓]  eJPT — eLearnSecurity Junior Penetration Tester      │  In Progress — INE Platform
 ```
 
 ---

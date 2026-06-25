@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GITHUB PROFILE — RADHAKRISHNAN S A                                        ║
-║  radha@vader | Arch Linux | Cybersecurity | Pre-Final Year                 ║
+║  radha@vader | Arch Linux | Cybersecurity | Final Year                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 

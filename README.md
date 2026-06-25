@@ -15,7 +15,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/RadhakrishnanSA?label=Followers&style=flat-square&color=00ffff&labelColor=0d1117&logo=github&logoColor=00ffff)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-eJPT%20Prep%20%7C%20Active-00ffff?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-eWPT%20Prep%20%7C%20Active-00ffff?style=flat-square&labelColor=0d1117)
 &nbsp;
 ![Arch](https://img.shields.io/badge/OS-Windows%20%2F%20Arch-1793d1?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0d1117)
 &nbsp;
@@ -45,7 +45,7 @@
     /ossssssss/        +ssssooo/-       ────────────────────────────────────────
   `/ossssso+/:-        -:/+osssso+-     Role     │  CS Student · Pentester in Training
  `+sso+:-`                `.-/+oso:    Focus    │  Penetration Testing · Web App Sec
-`++:.                          `-/+/   Cert     │  eJPT (In Progress — INE Platform)
+`++:.                          `-/+/   Cert     │  eJPT ✓ 91%  |  eWPT (Prep)
 .`                                `/   CTF      │  0xSh4d0w · 39th/500+ @ DCG CTF
                                         ────────────────────────────────────────
                                         ██ ██ ██ ██ ██ ██ ██ ██  0-7
@@ -64,11 +64,11 @@
 
 NAME="Radhakrishnan S A"
 ALIAS="radha | Tarnished"
-EDUCATION="B.E. Computer Science  |  Pre-Final Year"
+EDUCATION="B.E. Computer Science  |  Final Year"
 COLLEGE="KSR Institute for Engineering and Technology, Namakkal"
 LOCATION="Tamil Nadu, India"
 
-echo "[+] Pre-final year CS student focused on penetration testing."
+echo "[+] Final year CS student focused on penetration testing."
 echo "[+] CTF player — 39th place / 500+ teams @ DCG Coimbatore (team: 0xSh4d0w)."
 echo "[+] Completed cybersecurity internship at Prompt Infotech, Coimbatore."
 echo "[+] Studied OWASP Top 10 for LLM Applications — prompt injection labs."
@@ -77,7 +77,8 @@ echo "[+] Building web apps and AI projects while grinding security skills."
 
 # ── Currently Learning ─────────────────────────────────────────────────
 CURRENT_LEARNING=(
-  "[*] eJPT Certification     — INE Platform  |  Active labs"
+  "[✓] eJPT Certification     — INE Security  |  Certified, 91%"
+  "[*] eWPT Certification     — INE Security  |  Preparing"
   "[*] Web App Exploitation   — OWASP Top 10 techniques"
   "[*] Network Pentesting     — enumeration, pivoting, post-exploitation"
   "[*] CTF Competitions       — web, forensics, OSINT"
@@ -86,7 +87,7 @@ CURRENT_LEARNING=(
 
 echo ""
 echo "[radha@vader ~]\$ systemctl status career"
-echo " ● Active: eJPT labs | CTF grind | Building projects"
+echo " ● Active: eWPT prep | CTF grind | Building projects"
 ```
 
 ---
@@ -177,13 +178,14 @@ echo " ● Active: eJPT labs | CTF grind | Building projects"
 ```
 [radha@vader ~]$ ls -1 ~/certs/
 
+  [✓]  eJPT — eLearnSecurity Junior Penetration Tester       │  Certified · 91% · INE Security
+  [*]  eWPT — eLearnSecurity Web Application Penetration Tester │  Preparing — INE Security
   [✓]  TryHackMe — Pre Security Learning Path
   [✓]  NPTEL — Introduction to Industry 4.0 & IIoT          │  Elite + Silver  (81%)
   [✓]  AICTE — AI & Machine Learning Virtual Internship      │  EduSkills / India Edu Program
   [✓]  AICTE — Process Mining Virtual Internship             │  Celonis / EduSkills
   [✓]  Cybersecurity Internship — Prompt Infotech, Coimbatore
   [✓]  OWASP Top 10 for LLM Applications Training            │  Prompt Injection · LLM Security
-  [✓]  eJPT — eLearnSecurity Junior Penetration Tester      │  In Progress — INE Platform
 ```
 
 ---
@@ -228,12 +230,13 @@ SYNOPSIS
        radha [--pentest] [--build] [--ctf] [--distro-hop] [--coffee]
 
 DESCRIPTION
-       Pre-final year Computer Science student from Tamil Nadu, India.
+       Final year Computer Science student from Tamil Nadu, India.
        Focused on offensive security and penetration testing.
-       Competed in CTFs, completed a cybersecurity internship, and
-       studied OWASP Top 10 for web and LLM application security.
+       Certified eJPT (91%). Competed in CTFs, completed a
+       cybersecurity internship, and studied OWASP Top 10 for web
+       and LLM application security.
        Has run Arch, CachyOS, Garuda, BlackArch, HydeOS, and Fedora.
-       Currently grinding eJPT on INE Platform.
+       Currently preparing for eWPT on INE Platform.
 
 OPTIONS
        --pentest       Nmap, Burp Suite, Metasploit, Hydra, Gobuster
@@ -244,7 +247,7 @@ OPTIONS
 
 ENVIRONMENT
        EDITOR=nvim   SHELL=bash/zsh   DISTRO=Windows_for_now
-       CTF_MODE=on   EJPT_PREP=active   BTW_I_USE_ARCH=true
+       CTF_MODE=on   EJPT_STATUS=certified   EWPT_PREP=active   BTW_I_USE_ARCH=true
 
 PLATFORMS
        TryHackMe   →  tryhackme.com/p/satorugojo88
